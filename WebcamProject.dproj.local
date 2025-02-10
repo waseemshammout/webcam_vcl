@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024-06-16 19:49:02.000.786,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-09-28 12:42:42.000.452,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-10-16 00:42:07.000.366,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-11-08 21:13:58.000.107,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-11-24 18:32:17.000.806,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-11-27 19:15:38.000.976,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-11-27 19:17:16.000.164,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024-11-29 17:44:06.000.520,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-06 02:04:13.000.566,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-14 11:04:46.000.263,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-15 09:56:41.000.198,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-15 12:16:59.000.341,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-19 20:48:59.000.431,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-20 00:32:36.000.998,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-20 02:54:42.000.395,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-22 16:53:53.000.717,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-22 20:25:23.000.495,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-24 12:43:42.000.741,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-24 15:17:48.000.203,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-25 22:20:41.000.612,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-26 22:17:17.000.973,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-01-27 23:04:13.000.019,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2025-02-04 20:31:31.000.399,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-05 19:20:25.000.565,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-05 22:09:47.000.750,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-06 21:38:33.000.043,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-07 16:15:32.000.045,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-07 16:47:50.000.678,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-08 16:17:27.000.968,=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-08 16:20:04.000.979,C:\Users\Waseem\Desktop\Webcam\uWebcam.dfm=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025-02-08 16:20:04.000.979,C:\Users\Waseem\Desktop\Webcam\uWebcam.pas=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025-02-08 16:20:24.000.853,C:\Users\Waseem\Desktop\Webcam\WebcamProject.dproj=C:\Users\Waseem\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025-02-08 16:20:35.000.962,=C:\Users\Waseem\Desktop\Webcam\Unit1.pas</Transaction>
+    <Transaction>2025-02-08 16:20:59.000.233,C:\Users\Waseem\Desktop\Webcam\WebCam.pas=C:\Users\Waseem\Desktop\Webcam\Unit1.pas</Transaction>
+    <Transaction>2025-02-08 16:21:37.000.051,C:\Users\Waseem\Desktop\Webcam\uWebcamForm.dfm=C:\Users\Waseem\Desktop\Webcam\uWebcam.dfm</Transaction>
+    <Transaction>2025-02-08 16:21:37.000.051,C:\Users\Waseem\Desktop\Webcam\uWebcamForm.pas=C:\Users\Waseem\Desktop\Webcam\uWebcam.pas</Transaction>
+    <Transaction>2025-02-10 01:43:04.000.561,=C:\Users\Waseem\Desktop\Webcam\Unit1.pas</Transaction>
+    <Transaction>2025-02-10 01:43:33.000.357,C:\Users\Waseem\Desktop\Webcam\uPeopleCard.dfm=C:\Users\Waseem\Desktop\Webcam\Unit1.dfm</Transaction>
+    <Transaction>2025-02-10 01:43:33.000.357,C:\Users\Waseem\Desktop\Webcam\uPeopleCard.pas=C:\Users\Waseem\Desktop\Webcam\Unit1.pas</Transaction>
+    <Transaction>2025-02-10 01:45:41.000.454,=C:\Users\Waseem\Desktop\Webcam\Unit1.pas</Transaction>
+    <Transaction>2025-02-10 01:45:57.000.828,C:\Users\Waseem\Desktop\Webcam\uDM.pas=C:\Users\Waseem\Desktop\Webcam\Unit1.pas</Transaction>
+    <Transaction>2025-02-10 01:45:57.000.828,C:\Users\Waseem\Desktop\Webcam\uDM.dfm=C:\Users\Waseem\Desktop\Webcam\Unit1.dfm</Transaction>
+    <Transaction>2025-02-10 03:04:20.000.030,C:\Users\Waseem\Desktop\webcam_vcl\uDM.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
